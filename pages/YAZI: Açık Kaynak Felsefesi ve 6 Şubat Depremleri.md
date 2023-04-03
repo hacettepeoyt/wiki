@@ -2,7 +2,7 @@ Açık kaynak yazılımdan bahsettiğimizde genelde insanların zihinlerinde kay
 
 6 Şubat’ta gerçekleşen iki büyük deprem sonrasında saatler içerisinde Eser Özvataf ve Furkan Kılıç öncülüğünde her türlü geliştirici ve gönüllünün davet edildiği AYA: Açık Yazılım Ağı Discord kanalı kuruldu. Depremzedelerin yardımına koşmak için bir araya gelen birçok gönüllü geliştirici, açık kaynak yaklaşımıyla hareket ederek bu Discord kanalı üzerinden iletişim kurup ihtiyaç duyulan yazılımları hızlı bir şekilde işlevsel hale getirdi.
 
-Ve sadece 36 saat içerisinde afetbilgi.com, afetharita.com ve beniyiyim.com gibi 3 kocaman proje canlıya alındı. 
+Ve sadece 36 saat içerisinde [afetbilgi.com](https://afetbilgi.com/), [afetharita.com](https://afetharita.com/) ve [beniyiyim.com](https://beniyiyim.com/) gibi 3 kocaman proje canlıya alındı.
 
 Ürettikleri açık yazılımları herkesle paylaşan gönüllü geliştiriciler sayesinde, yardım ekipleri ve depremzedeler arasındaki koordinasyon sağlanarak birçok insanın kurtarılması ve yardımların ilgili yerlere iletilmesi mümkün oldu. Bu sonucun ortaya çıkmasında açık kaynak felsefesinin benimsenmesi kilit rol oynadı ve bu sayede gönüllü geliştiriciler sürece dahil olup hızlı hareket edebildi. 
 
