@@ -6,10 +6,12 @@ Ve sadece 36 saat içerisinde [afetbilgi.com](https://afetbilgi.com/), [afethari
 
 Ürettikleri açık yazılımları herkesle paylaşan gönüllü geliştiriciler sayesinde, yardım ekipleri ve depremzedeler arasındaki koordinasyon sağlanarak birçok insanın kurtarılması ve yardımların ilgili yerlere iletilmesi mümkün oldu. Bu sonucun ortaya çıkmasında açık kaynak felsefesinin benimsenmesi kilit rol oynadı ve bu sayede gönüllü geliştiriciler sürece dahil olup hızlı hareket edebildi. 
 
-## Bu süreçte açık kaynak olarak geliştirilen birkaç web sitesi ve platformdan bahsetmek gerekirse:
+Bu süreçte açık kaynak olarak geliştirilen birkaç web sitesi ve platformdan bahsetmek gerekirse:
 
 
-**-afetharita.com:** Yapay zeka ve makine öğrenimi teknolojileri kullanılarak sosyal medyadaki yardım talepleri okunaklı verilere dönüştürüldü ve elde edilen veriler, afetharita.com üzerinde görselleştirildi. Daha sonrasında afet ile ilgili ihtiyaç duyulabilecek önemli verilerin ilgili kurumlardan toplanıp haritaya eklenmesi sağlanarak 35 milyon toplam istek ve 627 bin özel ziyaretçi rakamlarına ulaşıldı. STK'lar, gönüllüler ve afetzedelerin afet ile ilgili önemli verilere ulaşmasında büyük etki sağladılar.
+### afetharita.com
+
+Yapay zeka ve makine öğrenimi teknolojileri kullanılarak sosyal medyadaki yardım talepleri okunaklı verilere dönüştürüldü ve elde edilen veriler, afetharita.com üzerinde görselleştirildi. Daha sonrasında afet ile ilgili ihtiyaç duyulabilecek önemli verilerin ilgili kurumlardan toplanıp haritaya eklenmesi sağlanarak 35 milyon toplam istek ve 627 bin özel ziyaretçi rakamlarına ulaşıldı. STK'lar, gönüllüler ve afetzedelerin afet ile ilgili önemli verilere ulaşmasında büyük etki sağladılar.
  
  ![afetharita](https://miro.medium.com/v2/resize:fit:720/format:webp/1*20USbTHR9zXa3SvRjOC8uA.png)
 
@@ -27,13 +29,21 @@ Daha sonra uygulamayı iyileştirmek için zoom her değiştiğinde istek atmas�
 
 Sitenin geliştirilmesinde Lead Developer olan Eray Gündoğmuş’un tüm geliştirme sürecini ve discord’daki organizasyonu detaylarıyla anlattığı [yazısını](https://gundogmuseray.medium.com/afetharita-com-binlerce-depremzedeye-nas%C4%B1l-yard%C4%B1m-etti-f3ec0cd4adbe) okumanızı tavsiye ederim.
 
-**-beniyiyim.com :** Enkaz altında kalan insanların durumlarının iyi veya kötü olduğunu adres bilgileri ile girebilecekleri ve diğer insanlara bildirebilecekleri bir form projesidir.
+### beniyiyim.com
 
-**-afetbilgi.com:** Deprem sonrası geçici barınma alanları, güvenli toplanma alanları, para-eşya bağışı imkanları, kan bağışı noktaları gibi gereken tüm özet bilgilere ulaşabileceğiniz web sitesidir.
+Enkaz altında kalan insanların durumlarının iyi veya kötü olduğunu adres bilgileri ile girebilecekleri ve diğer insanlara bildirebilecekleri bir form projesidir.
 
-**-deprem.io ve depremyardim.com:** Deprem İmece Platformu tarafından geliştirilen ulaşılamayan kişilerin bilgisinin girilebildiği iki farklı ortak platformdur. Aynı zamanda yardım iste & yardım sağla sisteminde yardım akışının yönetilmesine katkı sağlar. Bilgileri Ahbap, AKUT ve AFAD ile paylaşır, ayrıca Twitter’dan yayınlanan tweetleri yapay zeka ile adres bilgilerini alıp sisteme ekleyebilir.
+### afetbilgi.com
 
-**-https://huggingface.co/deprem-ml:** Kısaca altında birçok yazılım uzmanının çalıştığı, depremle ilgili bir yapay zeka açık kaynak platformudur. Depremin ilk gününde, depremzedelerin yardım çağrılarını yazılı bir şekilde Instagram hikayesi veya tweet olarak paylaştıklarını gözlemlediler. Bu verileri otomatik olarak çekip anlamlı hale getirmek amacıyla makine öğrenimi tabanlı uygulamalar oluşturmak ve ayrıca modeller ve veri setleri için bir registry’e ihtiyaçları olduğuna düşündükleri için Hugging Face organizasyon hesabını açtılar. 
+Deprem sonrası geçici barınma alanları, güvenli toplanma alanları, para-eşya bağışı imkanları, kan bağışı noktaları gibi gereken tüm özet bilgilere ulaşabileceğiniz web sitesidir.
+
+### deprem.io ve depremyardim.com
+
+Deprem İmece Platformu tarafından geliştirilen ulaşılamayan kişilerin bilgisinin girilebildiği iki farklı ortak platformdur. Aynı zamanda yardım iste & yardım sağla sisteminde yardım akışının yönetilmesine katkı sağlar. Bilgileri Ahbap, AKUT ve AFAD ile paylaşır, ayrıca Twitter’dan yayınlanan tweetleri yapay zeka ile adres bilgilerini alıp sisteme ekleyebilir.
+
+### https://huggingface.co/deprem-ml
+
+Kısaca altında birçok yazılım uzmanının çalıştığı, depremle ilgili bir yapay zeka açık kaynak platformudur. Depremin ilk gününde, depremzedelerin yardım çağrılarını yazılı bir şekilde Instagram hikayesi veya tweet olarak paylaştıklarını gözlemlediler. Bu verileri otomatik olarak çekip anlamlı hale getirmek amacıyla makine öğrenimi tabanlı uygulamalar oluşturmak ve ayrıca modeller ve veri setleri için bir registry’e ihtiyaçları olduğuna düşündükleri için Hugging Face organizasyon hesabını açtılar. 
 
 ![huggingfacedepremml](https://user-images.githubusercontent.com/119361280/229272662-e36f7d7b-48fc-49d6-adfb-94f44d7abbef.png)
 
